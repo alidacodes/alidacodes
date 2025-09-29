@@ -2,7 +2,7 @@
 
 I'm located in Ontario, Canada.
 
-I'm a Software Engineer at GitHub on Customer Success Engineering. I build and maintain support tooling, including GitHub's Support Portal!
+I'm a Software Engineer. Previously, I worked at GitHub on Customer Success Engineering (2022-2025). I built and maintained support tooling, including GitHub's Support Portal.
 
 Some of the tools, languages and frameworks I use:
 
