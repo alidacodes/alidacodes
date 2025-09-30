@@ -10,23 +10,10 @@ Some of the tools, languages and frameworks I use:
 
 I'm also a published speaker, and I'm particularly proud of my [Dec 2023 talk at YouGotThis.io](https://www.youtube.com/watch?v=Btw4FWlufQg) on neurodiversity and mental health, two topics I'm very personally passionate about.
 
-I’m looking to volunteer my skills & contribute to Open Source in 2025; if you think I'd be a great fit for your project, please reach out!
+### ❗ I'm looking for my next role! 
 
+I'd [love to chat](mailto:hello@alidacodes.ca) if you're looking for an intermediate software developer with a passion for developer experience, internal tooling, and chasing tough bugs. 
 
-<!--
-**alidacodes/alidacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
 **Let's chat!**
